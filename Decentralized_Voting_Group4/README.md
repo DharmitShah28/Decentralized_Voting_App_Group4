@@ -5,7 +5,7 @@ STEPS FOR RUNNING THE PROJECT:
 
 Open terminal and clone the entire code from GitHub using the link. 
 
-Command: git clone <link> 
+Command: git clone https://github.com/DharmitShah28/Decentralized_Voting_App_Group4.git
 
 Setup step 1: 
 
